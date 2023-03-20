@@ -4,3 +4,5 @@ In energy systems modelling, the design of a future energy system is determined 
 
 Using energy system models to analyse regional distribution of renewable electricity generation is a fairly new research approach with several unexplored sub-areas. Previous studies have identified among other things, a trade-off between least-cost and regional equity (Sasse & Trutnevyte, 2019, 2020) and a trilemma between cost-efficiency, equity and social acceptance for wind power expansion (Weinand et al., 2021). There are many ways to measure regional equity and while previous research mainly have focused on equitable distribution based on population and energy consumption, other approaches may provide new insight.
 
+Insights from this project will be presented at the European Geoscience Union (EGU) General Assembly, Wed 26 April 2023:
+Vågerö, O., Zeyringer, M., and Inderberg, T. H. J.: Modelling the just allocation of energy infrastructure - Implications of assumptions and definitions of justice on model results, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-12347, https://doi.org/10.5194/egusphere-egu23-12347, 2023. 
