@@ -1,5 +1,8 @@
 # Ignore gdx files.
 *.gdx
 
+# Ignore the this file itself
+.gitignore
+
 # Ignore the model run subfolders
 EU10CS/
