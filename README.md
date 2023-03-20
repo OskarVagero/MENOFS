@@ -6,3 +6,12 @@ Using energy system models to analyse regional distribution of renewable electri
 
 Insights from this project will be presented at the European Geoscience Union (EGU) General Assembly, Wed 26 April 2023:
 Vågerö, O., Zeyringer, M., and Inderberg, T. H. J.: Modelling the just allocation of energy infrastructure - Implications of assumptions and definitions of justice on model results, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-12347, https://doi.org/10.5194/egusphere-egu23-12347, 2023. 
+
+## Data
+
+* Emission data is sourced from (Crippa et al., 2022)
+
+## References
+Crippa, M., Guizzardi, D., Banja, M., Solazzo, E., Muntean, M., Schaaf, E., Pagani, F., Monforti-Ferrario, F., Olivier, J. G. J., Quadrelli, R., Risquez  Martin, A., Taghavi-Moharamli, P., Grassi, G., Rossi, S., Oom, D., Branco, A., San-Miguel, J., & Vignati, E. (2022). CO2 emissions of all world countries—2022 (EUR 31182 EN). European Commission, Joint research Centre. https://data.europa.eu/doi/10.2760/730164
+
+
