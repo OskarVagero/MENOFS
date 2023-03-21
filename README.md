@@ -9,10 +9,15 @@ Vågerö, O., Zeyringer, M., and Inderberg, T. H. J.: Modelling the just allocat
 
 ## Data
 
-* Emission data is sourced from (Crippa et al., 2022)
-* Population data is from 2021 and (Eurostat, 2022)
+* Emission data is sourced from Crippa et al. (2022)
+* Population data is from 2021 and Eurostat (2022)
+* Data on land area per country is based on The World Bank (2023)
+
+
 ## References
 Crippa, M., Guizzardi, D., Banja, M., Solazzo, E., Muntean, M., Schaaf, E., Pagani, F., Monforti-Ferrario, F., Olivier, J. G. J., Quadrelli, R., Risquez  Martin, A., Taghavi-Moharamli, P., Grassi, G., Rossi, S., Oom, D., Branco, A., San-Miguel, J., & Vignati, E. (2022). CO2 emissions of all world countries—2022 (EUR 31182 EN). European Commission, Joint research Centre. https://data.europa.eu/doi/10.2760/730164
+
 Eurostat. (2022). Population change—Demographic balance and crude rates at national level. https://ec.europa.eu/eurostat/databrowser/view/DEMO_GIND
 
+The World Bank. (2023). Land area (sq. Km) | Data. https://data.worldbank.org/indicator/AG.LND.TOTL.K2
 
