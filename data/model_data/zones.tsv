@@ -1,0 +1,29 @@
+Country	ISO3	ISO2	ETM	ETM_reg	EU_simpl	gb_ext	UTC	JRC_EUTIMES
+Austria	AUT	AT	1	IAM	EC	1	1	1
+Belgium	BEL	BE	1	BNL	BNL	1	1	1
+Bulgaria	BGR	BG	1	EES	ES	1	2	1
+Croatia	HRV	HR	1	EES	ES	1	1	1
+CzechRepublic	CZE	CZ	1	EEN	EC	1	1	1
+Denmark	DNK	DK	1	SDF	DNK	1	1	1
+Estonia	EST	EE	1	EEN	EN	1	2	1
+Finland	FIN	FI	1	SDF	EN	1	2	1
+France	FRA	FR	1	FRA	FRA	1	1	1
+Germany	DEU	DE	1	DEU	DEU	1	1	1
+Greece	GRC	GR	1	EES	ES	1	2	1
+Hungary	HUN	HU	1	EES	EC	1	1	1
+Ireland	IRL	IE	1	UKI	IRL	1	0	1
+Italy	ITA	IT	1	IAM	ES	1	1	1
+Latvia	LVA	LV	1	EEN	EN	1	2	1
+Lithuania	LTU	LT	1	EEN	EN	1	2	1
+Luxembourg	LUX	LU	1	BNL	BNL	1	1	1
+Netherlands	NLD	NL	1	BNL	BNL	1	1	1
+Poland	POL	PL	1	EEN	EN	1	1	1
+Portugal	PRT	PT	1	IBE	IBE	1	0	1
+Romania	ROU	RO	1	EES	EC	1	2	1
+Slovakia	SVK	SK	1	EEN	EC	1	1	1
+Slovenia	SVN	SI	1	EES	ES	1	1	1
+Spain	ESP	ES	1	IBE	IBE	1	1	1
+Sweden	SWE	SE	1					
+Switzerland	CHE	CH	1	SWZ	EC	1	1	1
+United Kingdom	GBR	UK	1	UKI		1	0	1
+Norway	NOR	NO	1					
