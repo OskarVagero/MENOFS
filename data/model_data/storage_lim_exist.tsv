@@ -1,0 +1,7 @@
+Technology	Year	parameter	limtype	AT	BE	BG	CH	CY	CZ	DE	DK	EE	ES	FI	FR	GR	HR	HU	IE	IT	LI	LT	LU	LV	NL	NO	PL	PT	RO	SE	SI	SK	UK
+PumpedHydro	2050	store_lim_pcap_z	FX	2971.1	1308	1399	1757.69	0	1175	8410	0	0	4825.4	0	4965	693	281	0	292	4714	0	900	1291	0	0	1344.3	1770.12	1245.2	285	426	180	916	2828
+PumpedHydro	2050	store_lim_ecap_z	FX	132410	5710	11130	311480	nan	5720	39120	0	0	70000	0	83370	4970	2340	0	1800	68270	nan	10800	4478	0	0	399391	7960	40770	10200	72120	500	3630	26700
+Li-ion-8	2050	store_lim_pcap_z	UP	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf
+Li-ion-8	2050	store_lim_ecap_z	UP	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf	inf
+PumpedHydro	2050	store_exist_pcap_z	FX	2971.1	1308	1399	1757.69	0	1175	8410	0	0	4825.4	0	4965	693	281	0	292	4714	0	900	1291	0	0	1344.3	1770.12	1245.2	285	426	180	916	2828
+PumpedHydro	2050	store_exist_ecap_z	FX	132410	5710	11130	311480	nan	5720	39120	0	0	70000	0	83370	4970	2340	0	1800	68270	nan	10800	4478	0	0	399391	7960	40770	10200	72120	500	3630	26700
