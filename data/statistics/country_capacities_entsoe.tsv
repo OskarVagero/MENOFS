@@ -1,0 +1,561 @@
+country	country_code	technology	installed_capacity_MW
+Austria	AT	Fossil Peat 	0
+Austria	AT	Nuclear 	0
+Austria	AT	Fossil Hard coal 	0
+Austria	AT	Wind Onshore 	3500
+Austria	AT	Fossil Brown coal/Lignite 	0
+Austria	AT	Geothermal 	0
+Austria	AT	Hydro Run-of-river and poundage 	5837
+Austria	AT	Hydro Water Reservoir 	2475
+Austria	AT	Wind Offshore 	0
+Austria	AT	Hydro Pumped Storage 	3503
+Austria	AT	Other renewable 	0
+Austria	AT	Solar 	2500
+Austria	AT	Fossil Oil shale 	0
+Austria	AT	Waste 	103
+Austria	AT	Fossil Gas 	4350
+Austria	AT	Fossil Coal-derived gas 	0
+Austria	AT	Fossil Oil 	164
+Austria	AT	Marine 	0
+Austria	AT	Other 	954
+Austria	AT	Biomass 	482
+Belgium	BE	Fossil Peat 	n/e
+Belgium	BE	Nuclear 	5943
+Belgium	BE	Fossil Hard coal 	n/e
+Belgium	BE	Wind Onshore 	2787
+Belgium	BE	Fossil Brown coal/Lignite 	n/e
+Belgium	BE	Geothermal 	n/e
+Belgium	BE	Hydro Run-of-river and poundage 	185
+Belgium	BE	Hydro Water Reservoir 	n/e
+Belgium	BE	Wind Offshore 	2254
+Belgium	BE	Hydro Pumped Storage 	1308
+Belgium	BE	Other renewable 	n/e
+Belgium	BE	Solar 	4788
+Belgium	BE	Fossil Oil shale 	n/e
+Belgium	BE	Waste 	384
+Belgium	BE	Fossil Gas 	6819
+Belgium	BE	Fossil Coal-derived gas 	n/e
+Belgium	BE	Fossil Oil 	398
+Belgium	BE	Marine 	n/e
+Belgium	BE	Other 	19
+Belgium	BE	Biomass 	700
+Bulgaria	BG	Fossil Peat 	0
+Bulgaria	BG	Nuclear 	2080
+Bulgaria	BG	Fossil Hard coal 	356
+Bulgaria	BG	Wind Onshore 	705
+Bulgaria	BG	Fossil Brown coal/Lignite 	4119
+Bulgaria	BG	Geothermal 	0
+Bulgaria	BG	Hydro Run-of-river and poundage 	540
+Bulgaria	BG	Hydro Water Reservoir 	1810
+Bulgaria	BG	Wind Offshore 	0
+Bulgaria	BG	Hydro Pumped Storage 	864
+Bulgaria	BG	Other renewable 	0
+Bulgaria	BG	Solar 	1726
+Bulgaria	BG	Fossil Oil shale 	0
+Bulgaria	BG	Waste 	6
+Bulgaria	BG	Fossil Gas 	1305
+Bulgaria	BG	Fossil Coal-derived gas 	0
+Bulgaria	BG	Fossil Oil 	0
+Bulgaria	BG	Marine 	0
+Bulgaria	BG	Other 	0
+Bulgaria	BG	Biomass 	74
+Croatia	HR	Fossil Peat 	n/e
+Croatia	HR	Nuclear 	n/e
+Croatia	HR	Fossil Hard coal 	217
+Croatia	HR	Wind Onshore 	925
+Croatia	HR	Fossil Brown coal/Lignite 	n/e
+Croatia	HR	Geothermal 	10
+Croatia	HR	Hydro Run-of-river and poundage 	428
+Croatia	HR	Hydro Water Reservoir 	1446
+Croatia	HR	Wind Offshore 	n/e
+Croatia	HR	Hydro Pumped Storage 	281
+Croatia	HR	Other renewable 	57
+Croatia	HR	Solar 	96
+Croatia	HR	Fossil Oil shale 	n/e
+Croatia	HR	Waste 	6
+Croatia	HR	Fossil Gas 	750
+Croatia	HR	Fossil Coal-derived gas 	n/e
+Croatia	HR	Fossil Oil 	75
+Croatia	HR	Marine 	n/e
+Croatia	HR	Other 	n/e
+Croatia	HR	Biomass 	111
+Czech Republic	CZ	Fossil Peat 	n/e
+Czech Republic	CZ	Nuclear 	4040
+Czech Republic	CZ	Fossil Hard coal 	1200
+Czech Republic	CZ	Wind Onshore 	339
+Czech Republic	CZ	Fossil Brown coal/Lignite 	7250
+Czech Republic	CZ	Geothermal 	n/e
+Czech Republic	CZ	Hydro Run-of-river and poundage 	356
+Czech Republic	CZ	Hydro Water Reservoir 	753
+Czech Republic	CZ	Wind Offshore 	n/e
+Czech Republic	CZ	Hydro Pumped Storage 	1172
+Czech Republic	CZ	Other renewable 	410
+Czech Republic	CZ	Solar 	2053
+Czech Republic	CZ	Fossil Oil shale 	n/e
+Czech Republic	CZ	Waste 	100
+Czech Republic	CZ	Fossil Gas 	1240
+Czech Republic	CZ	Fossil Coal-derived gas 	380
+Czech Republic	CZ	Fossil Oil 	0
+Czech Republic	CZ	Marine 	n/e
+Czech Republic	CZ	Other 	0
+Czech Republic	CZ	Biomass 	410
+Denmark	DK	Fossil Peat 	n/e
+Denmark	DK	Nuclear 	n/e
+Denmark	DK	Fossil Hard coal 	3165
+Denmark	DK	Wind Onshore 	4644
+Denmark	DK	Fossil Brown coal/Lignite 	n/e
+Denmark	DK	Geothermal 	n/e
+Denmark	DK	Hydro Run-of-river and poundage 	7
+Denmark	DK	Hydro Water Reservoir 	n/e
+Denmark	DK	Wind Offshore 	2305
+Denmark	DK	Hydro Pumped Storage 	n/e
+Denmark	DK	Other renewable 	137
+Denmark	DK	Solar 	1536
+Denmark	DK	Fossil Oil shale 	n/e
+Denmark	DK	Waste 	384
+Denmark	DK	Fossil Gas 	1621
+Denmark	DK	Fossil Coal-derived gas 	n/e
+Denmark	DK	Fossil Oil 	997
+Denmark	DK	Marine 	n/e
+Denmark	DK	Other 	n/e
+Denmark	DK	Biomass 	1870
+Estonia	EE	Fossil Peat 	N/A
+Estonia	EE	Nuclear 	N/A
+Estonia	EE	Fossil Hard coal 	N/A
+Estonia	EE	Wind Onshore 	326
+Estonia	EE	Fossil Brown coal/Lignite 	N/A
+Estonia	EE	Geothermal 	N/A
+Estonia	EE	Hydro Run-of-river and poundage 	4
+Estonia	EE	Hydro Water Reservoir 	N/A
+Estonia	EE	Wind Offshore 	N/A
+Estonia	EE	Hydro Pumped Storage 	N/A
+Estonia	EE	Other renewable 	N/A
+Estonia	EE	Solar 	370
+Estonia	EE	Fossil Oil shale 	1371
+Estonia	EE	Waste 	17
+Estonia	EE	Fossil Gas 	94
+Estonia	EE	Fossil Coal-derived gas 	25
+Estonia	EE	Fossil Oil 	52
+Estonia	EE	Marine 	N/A
+Estonia	EE	Other 	13
+Estonia	EE	Biomass 	130
+Finland	FI	Fossil Peat 	1116
+Finland	FI	Nuclear 	2794
+Finland	FI	Fossil Hard coal 	1682
+Finland	FI	Wind Onshore 	3184
+Finland	FI	Fossil Brown coal/Lignite 	n/e
+Finland	FI	Geothermal 	n/e
+Finland	FI	Hydro Run-of-river and poundage 	3167
+Finland	FI	Hydro Water Reservoir 	n/e
+Finland	FI	Wind Offshore 	n/e
+Finland	FI	Hydro Pumped Storage 	n/e
+Finland	FI	Other renewable 	322
+Finland	FI	Solar 	7
+Finland	FI	Fossil Oil shale 	n/e
+Finland	FI	Waste 	114
+Finland	FI	Fossil Gas 	1935
+Finland	FI	Fossil Coal-derived gas 	n/e
+Finland	FI	Fossil Oil 	1051
+Finland	FI	Marine 	n/e
+Finland	FI	Other 	462
+Finland	FI	Biomass 	1895
+France	FR	Fossil Peat 	n/e
+France	FR	Nuclear 	61370
+France	FR	Fossil Hard coal 	1816
+France	FR	Wind Onshore 	19516
+France	FR	Fossil Brown coal/Lignite 	n/e
+France	FR	Geothermal 	2
+France	FR	Hydro Run-of-river and poundage 	11834
+France	FR	Hydro Water Reservoir 	8785
+France	FR	Wind Offshore 	20
+France	FR	Hydro Pumped Storage 	5050
+France	FR	Other renewable 	n/e
+France	FR	Solar 	13154
+France	FR	Fossil Oil shale 	n/e
+France	FR	Waste 	947
+France	FR	Fossil Gas 	13074
+France	FR	Fossil Coal-derived gas 	n/e
+France	FR	Fossil Oil 	2762
+France	FR	Marine 	243
+France	FR	Other 	1157
+France	FR	Biomass 	1301
+Germany	DE	Fossil Peat 	n/e
+Germany	DE	Nuclear 	4056
+Germany	DE	Fossil Hard coal 	18830
+Germany	DE	Wind Onshore 	55289
+Germany	DE	Fossil Brown coal/Lignite 	18544
+Germany	DE	Geothermal 	51
+Germany	DE	Hydro Run-of-river and poundage 	3660
+Germany	DE	Hydro Water Reservoir 	1397
+Germany	DE	Wind Offshore 	7787
+Germany	DE	Hydro Pumped Storage 	9280
+Germany	DE	Other renewable 	352
+Germany	DE	Solar 	57744
+Germany	DE	Fossil Oil shale 	n/e
+Germany	DE	Waste 	1599
+Germany	DE	Fossil Gas 	30553
+Germany	DE	Fossil Coal-derived gas 	0
+Germany	DE	Fossil Oil 	3966
+Germany	DE	Marine 	n/e
+Germany	DE	Other 	1679
+Germany	DE	Biomass 	8332
+Greece	GR	Fossil Peat 	n/e
+Greece	GR	Nuclear 	n/e
+Greece	GR	Fossil Hard coal 	n/e
+Greece	GR	Wind Onshore 	4150
+Greece	GR	Fossil Brown coal/Lignite 	2001
+Greece	GR	Geothermal 	0
+Greece	GR	Hydro Run-of-river and poundage 	319
+Greece	GR	Hydro Water Reservoir 	2403
+Greece	GR	Wind Offshore 	n/e
+Greece	GR	Hydro Pumped Storage 	699
+Greece	GR	Other renewable 	109
+Greece	GR	Solar 	3820
+Greece	GR	Fossil Oil shale 	n/e
+Greece	GR	Waste 	n/e
+Greece	GR	Fossil Gas 	5213
+Greece	GR	Fossil Coal-derived gas 	n/e
+Greece	GR	Fossil Oil 	0
+Greece	GR	Marine 	n/e
+Greece	GR	Other 	n/e
+Greece	GR	Biomass 	106
+Hungary	HU	Fossil Peat 	n/e
+Hungary	HU	Nuclear 	1916
+Hungary	HU	Fossil Hard coal 	42
+Hungary	HU	Wind Onshore 	323
+Hungary	HU	Fossil Brown coal/Lignite 	1007
+Hungary	HU	Geothermal 	3
+Hungary	HU	Hydro Run-of-river and poundage 	33
+Hungary	HU	Hydro Water Reservoir 	28
+Hungary	HU	Wind Offshore 	n/e
+Hungary	HU	Hydro Pumped Storage 	n/e
+Hungary	HU	Other renewable 	70
+Hungary	HU	Solar 	2524
+Hungary	HU	Fossil Oil shale 	n/e
+Hungary	HU	Waste 	49
+Hungary	HU	Fossil Gas 	3974
+Hungary	HU	Fossil Coal-derived gas 	n/e
+Hungary	HU	Fossil Oil 	425
+Hungary	HU	Marine 	n/e
+Hungary	HU	Other 	N/A
+Hungary	HU	Biomass 	213
+Ireland	IE	Fossil Peat 	344
+Ireland	IE	Nuclear 	N/A
+Ireland	IE	Fossil Hard coal 	855
+Ireland	IE	Wind Onshore 	1919
+Ireland	IE	Fossil Brown coal/Lignite 	N/A
+Ireland	IE	Geothermal 	17
+Ireland	IE	Hydro Run-of-river and poundage 	216
+Ireland	IE	Hydro Water Reservoir 	N/A
+Ireland	IE	Wind Offshore 	N/A
+Ireland	IE	Hydro Pumped Storage 	292
+Ireland	IE	Other renewable 	N/A
+Ireland	IE	Solar 	N/A
+Ireland	IE	Fossil Oil shale 	N/A
+Ireland	IE	Waste 	N/A
+Ireland	IE	Fossil Gas 	4265
+Ireland	IE	Fossil Coal-derived gas 	N/A
+Ireland	IE	Fossil Oil 	1272
+Ireland	IE	Marine 	N/A
+Ireland	IE	Other 	647
+Ireland	IE	Biomass 	N/A
+Italy	IT	Fossil Peat 	0
+Italy	IT	Nuclear 	N/A
+Italy	IT	Fossil Hard coal 	6376
+Italy	IT	Wind Onshore 	10658
+Italy	IT	Fossil Brown coal/Lignite 	0
+Italy	IT	Geothermal 	869
+Italy	IT	Hydro Run-of-river and poundage 	10507
+Italy	IT	Hydro Water Reservoir 	4441
+Italy	IT	Wind Offshore 	0
+Italy	IT	Hydro Pumped Storage 	7256
+Italy	IT	Other renewable 	0
+Italy	IT	Solar 	5137
+Italy	IT	Fossil Oil shale 	n/e
+Italy	IT	Waste 	122
+Italy	IT	Fossil Gas 	41961
+Italy	IT	Fossil Coal-derived gas 	2041
+Italy	IT	Fossil Oil 	1490
+Italy	IT	Marine 	0
+Italy	IT	Other 	825
+Italy	IT	Biomass 	1548
+Latvia	LV	Fossil Peat 	n/e
+Latvia	LV	Nuclear 	n/e
+Latvia	LV	Fossil Hard coal 	n/e
+Latvia	LV	Wind Onshore 	87
+Latvia	LV	Fossil Brown coal/Lignite 	n/e
+Latvia	LV	Geothermal 	n/e
+Latvia	LV	Hydro Run-of-river and poundage 	1588
+Latvia	LV	Hydro Water Reservoir 	n/e
+Latvia	LV	Wind Offshore 	n/e
+Latvia	LV	Hydro Pumped Storage 	n/e
+Latvia	LV	Other renewable 	n/e
+Latvia	LV	Solar 	14
+Latvia	LV	Fossil Oil shale 	n/e
+Latvia	LV	Waste 	n/e
+Latvia	LV	Fossil Gas 	1162
+Latvia	LV	Fossil Coal-derived gas 	n/e
+Latvia	LV	Fossil Oil 	n/e
+Latvia	LV	Marine 	n/e
+Latvia	LV	Other 	n/e
+Latvia	LV	Biomass 	164
+Lithuania	LT	Fossil Peat 	n/e
+Lithuania	LT	Nuclear 	n/e
+Lithuania	LT	Fossil Hard coal 	n/e
+Lithuania	LT	Wind Onshore 	671
+Lithuania	LT	Fossil Brown coal/Lignite 	n/e
+Lithuania	LT	Geothermal 	n/e
+Lithuania	LT	Hydro Run-of-river and poundage 	128
+Lithuania	LT	Hydro Water Reservoir 	n/e
+Lithuania	LT	Wind Offshore 	n/e
+Lithuania	LT	Hydro Pumped Storage 	900
+Lithuania	LT	Other renewable 	0
+Lithuania	LT	Solar 	259
+Lithuania	LT	Fossil Oil shale 	n/e
+Lithuania	LT	Waste 	70
+Lithuania	LT	Fossil Gas 	1527
+Lithuania	LT	Fossil Coal-derived gas 	n/e
+Lithuania	LT	Fossil Oil 	0
+Lithuania	LT	Marine 	n/e
+Lithuania	LT	Other 	37
+Lithuania	LT	Biomass 	95
+Luxembourg	LU	Fossil Peat 	0
+Luxembourg	LU	Nuclear 	0
+Luxembourg	LU	Fossil Hard coal 	0
+Luxembourg	LU	Wind Onshore 	167
+Luxembourg	LU	Fossil Brown coal/Lignite 	0
+Luxembourg	LU	Geothermal 	0
+Luxembourg	LU	Hydro Run-of-river and poundage 	25
+Luxembourg	LU	Hydro Water Reservoir 	11
+Luxembourg	LU	Wind Offshore 	0
+Luxembourg	LU	Hydro Pumped Storage 	0
+Luxembourg	LU	Other renewable 	0
+Luxembourg	LU	Solar 	258
+Luxembourg	LU	Fossil Oil shale 	0
+Luxembourg	LU	Waste 	21
+Luxembourg	LU	Fossil Gas 	96
+Luxembourg	LU	Fossil Coal-derived gas 	0
+Luxembourg	LU	Fossil Oil 	0
+Luxembourg	LU	Marine 	0
+Luxembourg	LU	Other 	0
+Luxembourg	LU	Biomass 	47
+Netherlands	NL	Fossil Peat 	0
+Netherlands	NL	Nuclear 	486
+Netherlands	NL	Fossil Hard coal 	4006
+Netherlands	NL	Wind Onshore 	5310
+Netherlands	NL	Fossil Brown coal/Lignite 	0
+Netherlands	NL	Geothermal 	0
+Netherlands	NL	Hydro Run-of-river and poundage 	38
+Netherlands	NL	Hydro Water Reservoir 	0
+Netherlands	NL	Wind Offshore 	2460
+Netherlands	NL	Hydro Pumped Storage 	0
+Netherlands	NL	Other renewable 	0
+Netherlands	NL	Solar 	14911
+Netherlands	NL	Fossil Oil shale 	0
+Netherlands	NL	Waste 	763
+Netherlands	NL	Fossil Gas 	18530
+Netherlands	NL	Fossil Coal-derived gas 	0
+Netherlands	NL	Fossil Oil 	0
+Netherlands	NL	Marine 	0
+Netherlands	NL	Other 	1
+Netherlands	NL	Biomass 	572
+Norway	NO	Fossil Peat 	n/e
+Norway	NO	Nuclear 	n/e
+Norway	NO	Fossil Hard coal 	n/e
+Norway	NO	Wind Onshore 	5105
+Norway	NO	Fossil Brown coal/Lignite 	n/e
+Norway	NO	Geothermal 	n/e
+Norway	NO	Hydro Run-of-river and poundage 	6677
+Norway	NO	Hydro Water Reservoir 	26683
+Norway	NO	Wind Offshore 	n/e
+Norway	NO	Hydro Pumped Storage 	1065
+Norway	NO	Other renewable 	100
+Norway	NO	Solar 	n/e
+Norway	NO	Fossil Oil shale 	n/e
+Norway	NO	Waste 	90
+Norway	NO	Fossil Gas 	639
+Norway	NO	Fossil Coal-derived gas 	n/e
+Norway	NO	Fossil Oil 	n/e
+Norway	NO	Marine 	n/e
+Norway	NO	Other 	31
+Norway	NO	Biomass 	N/A
+Poland	PL	Fossil Peat 	n/e
+Poland	PL	Nuclear 	n/e
+Poland	PL	Fossil Hard coal 	19073
+Poland	PL	Wind Onshore 	7950
+Poland	PL	Fossil Brown coal/Lignite 	7560
+Poland	PL	Geothermal 	n/e
+Poland	PL	Hydro Run-of-river and poundage 	321
+Poland	PL	Hydro Water Reservoir 	464
+Poland	PL	Wind Offshore 	n/e
+Poland	PL	Hydro Pumped Storage 	1591
+Poland	PL	Other renewable 	n/e
+Poland	PL	Solar 	6664
+Poland	PL	Fossil Oil shale 	n/e
+Poland	PL	Waste 	n/e
+Poland	PL	Fossil Gas 	3807
+Poland	PL	Fossil Coal-derived gas 	284
+Poland	PL	Fossil Oil 	393
+Poland	PL	Marine 	n/e
+Poland	PL	Other 	1524
+Poland	PL	Biomass 	647
+Portugal	PT	Fossil Peat 	0
+Portugal	PT	Nuclear 	0
+Portugal	PT	Fossil Hard coal 	0
+Portugal	PT	Wind Onshore 	5328
+Portugal	PT	Fossil Brown coal/Lignite 	0
+Portugal	PT	Geothermal 	0
+Portugal	PT	Hydro Run-of-river and poundage 	2856
+Portugal	PT	Hydro Water Reservoir 	1515
+Portugal	PT	Wind Offshore 	25
+Portugal	PT	Hydro Pumped Storage 	2827
+Portugal	PT	Other renewable 	0
+Portugal	PT	Solar 	1032
+Portugal	PT	Fossil Oil shale 	0
+Portugal	PT	Waste 	0
+Portugal	PT	Fossil Gas 	4520
+Portugal	PT	Fossil Coal-derived gas 	0
+Portugal	PT	Fossil Oil 	0
+Portugal	PT	Marine 	0
+Portugal	PT	Other 	28
+Portugal	PT	Biomass 	681
+Romania	RO	Fossil Peat 	n/e
+Romania	RO	Nuclear 	1300
+Romania	RO	Fossil Hard coal 	176
+Romania	RO	Wind Onshore 	2957
+Romania	RO	Fossil Brown coal/Lignite 	2497
+Romania	RO	Geothermal 	n/e
+Romania	RO	Hydro Run-of-river and poundage 	2780
+Romania	RO	Hydro Water Reservoir 	3357
+Romania	RO	Wind Offshore 	n/e
+Romania	RO	Hydro Pumped Storage 	n/e
+Romania	RO	Other renewable 	n/e
+Romania	RO	Solar 	1160
+Romania	RO	Fossil Oil shale 	n/e
+Romania	RO	Waste 	n/e
+Romania	RO	Fossil Gas 	2218
+Romania	RO	Fossil Coal-derived gas 	n/e
+Romania	RO	Fossil Oil 	n/e
+Romania	RO	Marine 	n/e
+Romania	RO	Other 	n/e
+Romania	RO	Biomass 	116
+Slovenia	SI	Fossil Peat 	0
+Slovenia	SI	Nuclear 	696
+Slovenia	SI	Fossil Hard coal 	0
+Slovenia	SI	Wind Onshore 	2
+Slovenia	SI	Fossil Brown coal/Lignite 	936
+Slovenia	SI	Geothermal 	0
+Slovenia	SI	Hydro Run-of-river and poundage 	1127
+Slovenia	SI	Hydro Water Reservoir 	0
+Slovenia	SI	Wind Offshore 	0
+Slovenia	SI	Hydro Pumped Storage 	180
+Slovenia	SI	Other renewable 	0
+Slovenia	SI	Solar 	286
+Slovenia	SI	Fossil Oil shale 	0
+Slovenia	SI	Waste 	36
+Slovenia	SI	Fossil Gas 	626
+Slovenia	SI	Fossil Coal-derived gas 	0
+Slovenia	SI	Fossil Oil 	58
+Slovenia	SI	Marine 	0
+Slovenia	SI	Other 	0
+Slovenia	SI	Biomass 	13
+Spain	ES	Fossil Peat 	0
+Spain	ES	Nuclear 	7117
+Spain	ES	Fossil Hard coal 	4642
+Spain	ES	Wind Onshore 	27735
+Spain	ES	Fossil Brown coal/Lignite 	0
+Spain	ES	Geothermal 	0
+Spain	ES	Hydro Run-of-river and poundage 	1155
+Spain	ES	Hydro Water Reservoir 	19187
+Spain	ES	Wind Offshore 	0
+Spain	ES	Hydro Pumped Storage 	5695
+Spain	ES	Other renewable 	272
+Spain	ES	Solar 	14640
+Spain	ES	Fossil Oil shale 	0
+Spain	ES	Waste 	565
+Spain	ES	Fossil Gas 	29927
+Spain	ES	Fossil Coal-derived gas 	0
+Spain	ES	Fossil Oil 	669
+Spain	ES	Marine 	0
+Spain	ES	Other 	118
+Spain	ES	Biomass 	702
+Sweden	SE	Fossil Peat 	n/e
+Sweden	SE	Nuclear 	6900
+Sweden	SE	Fossil Hard coal 	n/e
+Sweden	SE	Wind Onshore 	12100
+Sweden	SE	Fossil Brown coal/Lignite 	n/e
+Sweden	SE	Geothermal 	n/e
+Sweden	SE	Hydro Run-of-river and poundage 	n/e
+Sweden	SE	Hydro Water Reservoir 	16300
+Sweden	SE	Wind Offshore 	n/e
+Sweden	SE	Hydro Pumped Storage 	n/e
+Sweden	SE	Other renewable 	n/e
+Sweden	SE	Solar 	n/e
+Sweden	SE	Fossil Oil shale 	n/e
+Sweden	SE	Waste 	n/e
+Sweden	SE	Fossil Gas 	n/e
+Sweden	SE	Fossil Coal-derived gas 	n/e
+Sweden	SE	Fossil Oil 	n/e
+Sweden	SE	Marine 	n/e
+Sweden	SE	Other 	8400
+Sweden	SE	Biomass 	n/e
+Switzerland	CH	Fossil Peat 	n/e
+Switzerland	CH	Nuclear 	2970
+Switzerland	CH	Fossil Hard coal 	n/e
+Switzerland	CH	Wind Onshore 	n/e
+Switzerland	CH	Fossil Brown coal/Lignite 	n/e
+Switzerland	CH	Geothermal 	n/e
+Switzerland	CH	Hydro Run-of-river and poundage 	605
+Switzerland	CH	Hydro Water Reservoir 	5588
+Switzerland	CH	Wind Offshore 	n/e
+Switzerland	CH	Hydro Pumped Storage 	6681
+Switzerland	CH	Other renewable 	n/e
+Switzerland	CH	Solar 	n/e
+Switzerland	CH	Fossil Oil shale 	n/e
+Switzerland	CH	Waste 	n/e
+Switzerland	CH	Fossil Gas 	n/e
+Switzerland	CH	Fossil Coal-derived gas 	n/e
+Switzerland	CH	Fossil Oil 	n/e
+Switzerland	CH	Marine 	n/e
+Switzerland	CH	Other 	n/e
+Switzerland	CH	Biomass 	n/e
+United Kingdom	UK	Fossil Peat 	n/e
+United Kingdom	UK	Nuclear 	8256
+United Kingdom	UK	Fossil Hard coal 	5755
+United Kingdom	UK	Wind Onshore 	13932
+United Kingdom	UK	Fossil Brown coal/Lignite 	n/e
+United Kingdom	UK	Geothermal 	n/e
+United Kingdom	UK	Hydro Run-of-river and poundage 	1919
+United Kingdom	UK	Hydro Water Reservoir 	n/e
+United Kingdom	UK	Wind Offshore 	12160
+United Kingdom	UK	Hydro Pumped Storage 	4309
+United Kingdom	UK	Other renewable 	1900
+United Kingdom	UK	Solar 	13470
+United Kingdom	UK	Fossil Oil shale 	n/e
+United Kingdom	UK	Waste 	n/e
+United Kingdom	UK	Fossil Gas 	41371
+United Kingdom	UK	Fossil Coal-derived gas 	n/e
+United Kingdom	UK	Fossil Oil 	316
+United Kingdom	UK	Marine 	n/e
+United Kingdom	UK	Other 	3004
+United Kingdom	UK	Biomass 	4528
+Slovakia	SK	Fossil Peat 	n/e
+Slovakia	SK	Nuclear 	2003
+Slovakia	SK	Fossil Hard coal 	1
+Slovakia	SK	Wind Onshore 	3
+Slovakia	SK	Fossil Brown coal/Lignite 	276
+Slovakia	SK	Geothermal 	n/e
+Slovakia	SK	Hydro Run-of-river and poundage 	1212
+Slovakia	SK	Hydro Water Reservoir 	418
+Slovakia	SK	Wind Offshore 	n/e
+Slovakia	SK	Hydro Pumped Storage 	916
+Slovakia	SK	Other renewable 	115
+Slovakia	SK	Solar 	532
+Slovakia	SK	Fossil Oil shale 	n/e
+Slovakia	SK	Waste 	n/e
+Slovakia	SK	Fossil Gas 	1183
+Slovakia	SK	Fossil Coal-derived gas 	n/e
+Slovakia	SK	Fossil Oil 	259
+Slovakia	SK	Marine 	n/e
+Slovakia	SK	Other 	627
+Slovakia	SK	Biomass 	234
