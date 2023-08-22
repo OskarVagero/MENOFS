@@ -1,0 +1,90 @@
+# snakemake -np --slurm --default-resources slurm_account=ec85 runtime=250 mem_mb_per_cpu=1000 cpus_per_task=16 --use-conda -j 48 --cluster-cancel scancel
+
+technologies = ['NaturalgasCCGTwithCCSnewOT', 'NaturalgasOCGTnew',
+                'Solar', 'Windoffshore', 'Windonshore', 'NuclearEPR']
+optimisations = ['maximizing', 'minimizing']
+
+slacklevels = ['0.07', '0.15']
+
+localrules: all, change_objective, cplex_opt, copy_model_files, copy_model_code, slack_change
+
+clusterpath = "/cluster/work/projects/ec85/MENOFS/EU10CS/results/"
+
+cplex_options = """
+lpmethod 4
+solutiontype 2
+threads 16
+predual -1
+aggind 50
+BarColNZ 150
+barstartalg 3
+BarOrder 3
+"""
+
+# One rule to rule them all, and in the darkness bind them.
+rule all:
+	input:
+		expand(clusterpath + "EU_{technology}_{optimisation}_{slacklevel}/results.gdx", technology=technologies, optimisation=optimisations, slacklevel=slacklevels),
+		#expand(clusterpath + "{country}_{technology}_{optimisation}/highres_mga.gms",country=countries, technology=technologies, optimisation=optimisations),
+		#expand(clusterpath + "{country}_{technology}_{optimisation}/cplex.opt",country=countries, technology=technologies, optimisation=optimisations),
+
+# One rule to change the .gms file
+rule change_objective:
+	input:
+		"highres_mga.gms"
+	output:
+		clusterpath + "EU_{technology}_{optimisation}_{slacklevel}/highres_mga.gms"
+#	conda:
+#		"environment.yml"
+#	resources:
+		#runtime=1,
+	script:
+		"change_MGA_objective.py"
+
+# This rule changes the slack level
+rule slack_change:
+    input:
+        "mga_parameters.dd"
+    output:
+        clusterpath + "EU_{technology}_{optimisation}_{slacklevel}/mga_parameters.dd"
+    script:
+        "change_slack.py"
+
+# One rule to copy over model data to cluster
+rule copy_model_files:
+	input:
+		"4_model_data"
+	output:
+		directory(clusterpath + "4_model_data")
+	shell:
+		"cp -r 4_model_data /cluster/work/projects/ec85/MENOFS/EU10CS/results/"
+
+# One rule to copy over model code to cluster
+rule copy_model_code:
+	input:
+		"4_model_code_shared"
+	output:
+		directory(clusterpath + "4_model_code_shared")
+	shell:
+		"cp -r 4_model_code_shared /cluster/work/projects/ec85/MENOFS/EU10CS/results/"
+
+# One rule to run the MGA stuff
+rule run_mga:
+	input:
+		clusterpath + "4_model_data",
+		clusterpath + "4_model_code_shared",
+        clusterpath + "EU_{technology}_{optimisation}_{slacklevel}/mga_parameters.dd",
+		clusterpath + "EU_{technology}_{optimisation}_{slacklevel}/highres_mga.gms",
+		"/fp/projects01/ec85/.bin/gams/gams41.5_linux_x64_64_sfx",
+		clusterpath + "EU_{technology}_{optimisation}_{slacklevel}/cplex.opt"
+	output:
+		clusterpath + "EU_{technology}_{optimisation}_{slacklevel}/results.gdx"
+	script:
+		"run_gams.sh"
+
+rule cplex_opt:
+	output:
+		clusterpath + "EU_{technology}_{optimisation}_{slacklevel}/cplex.opt"
+	run:
+		with open(output[0], "w+") as f:
+			f.writelines(cplex_options)
