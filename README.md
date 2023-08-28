@@ -9,9 +9,10 @@ Vågerö, O., Zeyringer, M., and Inderberg, T. H. J.: Modelling the just allocat
 
 ## Data
 
-* Emission data is sourced from Crippa et al. (2022)
-* Population data is from 2021 and Eurostat (2022)
-* Data on land area per country is based on The World Bank (2023)
+* Emission data is sourced from Crippa et al. (2022).
+* Population data is from 2021 and Eurostat (2022).
+* Data on land area per country is based on The World Bank (2023).
+* GDP data is retrieved from The World Bank (2023).
 
 
 ## References
@@ -20,4 +21,6 @@ Crippa, M., Guizzardi, D., Banja, M., Solazzo, E., Muntean, M., Schaaf, E., Paga
 Eurostat. (2022). Population change—Demographic balance and crude rates at national level. https://ec.europa.eu/eurostat/databrowser/view/DEMO_GIND
 
 The World Bank. (2023). Land area (sq. Km) | Data. https://data.worldbank.org/indicator/AG.LND.TOTL.K2
+
+The World Bank. (2023). GDP, PPP (current international $) https://data-worldbank-org.ezproxy.uio.no/indicator/NY.GDP.MKTP.PP.CD
 
